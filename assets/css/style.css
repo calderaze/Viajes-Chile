@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "ubuntu";
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+}
+
+.navbar-brand {
+    font-family: "Black Ops One" !important;
+}
+
+.footer {
+    font-family: "Black Ops One" !important;
+}
