@@ -3,14 +3,14 @@
     padding: 0px;
     font-family: "ubuntu";
 }
-
+/* estilo para superponer la barra de navegación*/
 .navbar {
     position: fixed;
     width: 100%;
     top: 0;
     z-index: 999;
 }
-
+/* se agrega fuente extra para personalizar el nombre de marca*/
 .navbar-brand {
     font-family: "Black Ops One" !important;
 }
